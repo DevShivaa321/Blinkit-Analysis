@@ -1,0 +1,6 @@
+# .gitignore
+.venv/
+__pycache__/
+*.ipynb_checkpoints
+*.pbix~  # Power BI temp saves
+.DS_Store
