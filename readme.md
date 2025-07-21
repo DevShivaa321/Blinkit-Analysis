@@ -44,6 +44,7 @@ Analyze and visualize BlinkIT's grocery data to:
 
 ![Blinkit Dashboard](dashboard.png)
 
+---
 
 ## 🧮 Sample SQL Queries
 
