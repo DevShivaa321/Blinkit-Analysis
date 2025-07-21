@@ -40,6 +40,11 @@ Analyze and visualize BlinkIT's grocery data to:
 
 ---
 
+## 📈 Dashboard Preview
+
+![Blinkit Dashboard](dashboard.png)
+
+
 ## 🧮 Sample SQL Queries
 
 ```sql
